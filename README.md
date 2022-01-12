@@ -19,22 +19,9 @@
 <a href="https://imgur.com/q6a5WAW"><img src="https://i.imgur.com/q6a5WAW.png" title="source: imgur.com" /></a>
 <a href="https://imgur.com/KoyZlUn"><img src="https://i.imgur.com/KoyZlUn.png" title="source: imgur.com" /></a>
 
-## :rocket: Tecnologias
 
-
-## :information_source: Como usar
-
-Para clonar e executar esta aplicação, você precisa do [Git](https://git-scm.com) e [Yarn](https://yarnpkg.com/) ou maior instalados. Comandos:
-
-```bash
-# Clone this repository
-$ git clone https://github.com/SilvaneiMartins/react-login
-
-# Go into the repository
-$ cd react-login
-
-# Install dependencies
-$ yarn
+Para rodar o projeto é necessário descompactar o arquivo e ter os pacotes npm ou yarn instalados na máquina para rodar o projeto. 
+Feito isto, siga os passos abaixo:
 
 # Install dependencies
 $ npm install
