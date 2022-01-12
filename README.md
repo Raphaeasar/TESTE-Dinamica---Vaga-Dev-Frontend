@@ -23,13 +23,13 @@
 Para rodar o projeto é necessário descompactar o arquivo e ter os pacotes npm ou yarn instalados na máquina para rodar o projeto. 
 Feito isto, siga os passos abaixo:
 
-# Install dependencies
+# Instalar as dependências
 $ npm install
 
-# Run the app
+# Rodar o App
 $ yarn start
 
-# Run the app
+# Rodar o App
 $ npm start
 ```
 
